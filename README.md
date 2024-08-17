@@ -1,12 +1,12 @@
 # Castle Tours
 
-[Castle Tours](https://ts2017185.github.io/castletours/index.html) is an engaging and informative website designed to provide users with an enriching experience of exploring castles around Ireland. 
+[Castle Tours](https://ts2017185.github.io/castle-tours/) is an engaging and informative website designed to provide users with an enriching experience of exploring castles around Ireland. 
 
 The site aims to be a comprehensive resource for history enthusiasts, tourists, and people who are fascinated by the architectural and cultural significance of castles. By offering and suggesting detailed tours, historical context, and stunning visuals, Castle Tours hopes to inspire its audience with the opportunity to visit these magnificent structures.
 
 The primary goal of Castle Tours is to make historical tours accessible and enjoyable. The site is targeted towards individuals who have a keen interest in history, architecture, and castles. It serves as a useful tool for suggesting visits and offering planned tours to some of Ireland's most iconic castles.
 
-![Responsive Mockup](readme/Mockup.PNG)
+![Responsive Mockup](assets/readme/Mockup.PNG)
 
 ## Features 
 
@@ -19,42 +19,42 @@ __Navigation Bar__
  - Description: Featured at the top, the fully responsive navigation bar includes links to the Logo, Home page, Tours page, Gallery, and Contact page.
  - Value: This feature allows users to easily navigate between different sections of the website, ensuring a seamless browsing experience.
 
-![Navigation Bar](readme/NavigationBar.PNG)
+![Navigation Bar](assets/readme/NavigationBar.PNG)
 
 __Header Section__
 
  - Description: The header section features an engaging introduction with visually appealing elements.
  - Value: Captures the user's attention immediately and sets the tone for the site, encouraging them to explore further.
 
- ![Header Section](readme/HeaderSectionHomePage.PNG)
+ ![Header Section](assets/readme/HeaderSectionHomePage.PNG)
 
 __Castle Tours Offers Section__
 
  - Description: This section highlights three different tour packages: Stark, Lannister, and Targaryen. Each package includes a brief description of what it offers.
  - Value: Provides users with clear options for different tour experiences, allowing them to choose the one that best suits their interests and needs.
 
-![Castle Tours Offers Section](readme/CastleToursOffersSectionHomePage.PNG)
+![Castle Tours Offers Section](assets/readme/CastleToursOffersSectionHomePage.PNG)
 
 __Video Section__
 
  - Description: An immersive video background that plays automatically and loops, showcasing beautiful footage related to castles and their surroundings.
  - Value: Enhances the visual appeal of the site, providing an engaging way for users to experience the ambiance of castle tours.
 
-![Video Section](readme/VideoSectionHomePage.PNG)
+![Video Section](assets/readme/VideoSectionHomePage.PNG)
 
 __Testimonials Section__
 
  - Description: Features testimonials from satisfied customers, complete with images and quotes about their experiences.
  - Value: Provides social proof and builds trust with potential customers, encouraging them to book a tour based on positive feedback from others.
 
-![Testimonials Section](readme/TestimonialsSectionHomePage.PNG)
+![Testimonials Section](assets/readme/TestimonialsSectionHomePage.PNG)
 
 __Footer__
 
  - Description: The footer includes contact information, such as the address, phone number, email, and social media links.
  - Value: Ensures users can easily find and use the contact details, fostering communication and engagement with the Castle Tours team.
 
-![Footer](readme/Footer.PNG)
+![Footer](assets/readme/Footer.PNG)
 
 __Mobile Navigation__
 
@@ -71,29 +71,29 @@ __Header Section__
  - Description: The header features the name of a highlighted castle, "The Rock of Cashel," with a call-to-action button linking to more information.
  - Value: This visually appealing introduction immediately captures the user's interest and directs them to further details about the highlighted castle.
 
-![Header Section](readme/HeaderSectionTourPage.PNG)
+![Header Section](assets/readme/HeaderSectionTourPage.PNG)
 
 __Events Section__
 
  - Description: This section lists tours available in June, featuring castles like Ross Castle and Kylemore Abbey & Victorian Walled Garden with images, descriptions, and links to more information.
  - Value: Users can easily browse through upcoming tours, gaining insights into the history and significance of each featured castle.
 
-![Events Section](readme/EventsSectionTourPage.PNG)
-![Events Section](readme/EventsSection2TourPage.PNG)
+![Events Section](assets/readme/EventsSectionTourPage.PNG)
+![Events Section](assets/readme/EventsSection2TourPage.PNG)
 
 __Explore Section__
 
  - Description: An engaging video background with an overlay box highlighting "The Blarney Castle" and a call-to-action button for more information.
  - Value: This immersive section provides a captivating introduction to another notable castle, enhancing the visual and interactive experience for users.
 
-![Explore Section](readme/ExploreSectionTourPage.PNG)
+![Explore Section](assets/readme/ExploreSectionTourPage.PNG)
 
 __Upcoming Tours & Destinations Section__
 
  - Description: A section that highlights upcoming tours and destinations with a brief description and a link for more information. It also features an image gallery.
  - Value: Users can stay informed about future tours and popular destinations, encouraging them to explore more and stay connected through social media.
 
-![Upcoming Tours & Destinations Section](readme/UpComingToursTourPage.PNG)
+![Upcoming Tours & Destinations Section](assets/readme/UpComingToursTourPage.PNG)
 
 Focusing on these features, the Tours page ensures that users have access to detailed, engaging, and easy-to-navigate information about castle tours, making it the perfect resource for planning their next historical adventure.
 
@@ -105,23 +105,23 @@ __Header Section__
  - Description: The header section provides a clean and professional introduction to the About page.
  - Value: Sets the tone for the content, ensuring users know they are in the right place to learn more about Castle Tours.
 
-![Header Section](readme/HeaderSectionAboutPage.PNG)
+![Header Section](assets/readme/HeaderSectionAboutPage.PNG)
 
 __About Us Section__
 
  - Description: This section provides a detailed description of Castle Tours, emphasizing its position as the world's leading castle tour company. It highlights the company's commitment to offering immersive and meticulously designed tours, led by knowledgeable guides who bring the rich history and legends of each castle to life.
  - Value: Helps users understand the mission and values of Castle Tours, building trust and interest in the company's offerings.
 
-![About Us Section](readme/AboutUsSectionAboutPage.PNG)
+![About Us Section](assets/readme/AboutUsSectionAboutPage.PNG)
 
 __Gallery Section__
 
  - Description: This section features images from Castle Tours' special gallery, showcasing various tours and the majestic castles included in the offerings.
  - Value: Provides a visual representation of the tours, enhancing the appeal and giving users a glimpse of what they can expect.
 
-![Gallery Section](readme/GalleryOne.PNG)
-![Gallery Section](readme/GalleryTwo.PNG)
-![Gallery Section](readme/GalleryThree.PNG)
+![Gallery Section](assets/readme/GalleryOne.PNG)
+![Gallery Section](assets/readme/GalleryTwo.PNG)
+![Gallery Section](assets/readme/GalleryThree.PNG)
 
 - The Castle Tours About page ensures that users have a clear, informative, and engaging overview of the company, making it the perfect resource for understanding the mission, values, and offerings of Castle Tours.
 
@@ -133,14 +133,14 @@ __Header Section__
  - Description: The header section provides a clean and professional introduction to the Contact page.
  - Value: Sets the tone for the content, ensuring users know they are in the right place to get in touch with Castle Tours.
 
-![Header Section](readme/HeaderSectionContactPage.PNG)
+![Header Section](assets/readme/HeaderSectionContactPage.PNG)
 
 __Location Section__
 
  - Description: This section features a Google Maps iframe showing the location of Castle Tours' headquarters at 88 Grafton Street, Dublin, D02 VF65, Ireland.
  - Value: Helps users to easily locate the Castle Tours office, providing visual and interactive location information.
 
-![Location Section](readme/LocationSectionContactPage.PNG)
+![Location Section](assets/readme/LocationSectionContactPage.PNG)
 
 __Contact Us Section__
 
@@ -152,7 +152,7 @@ __Contact Form__
  - Description: The contact form includes fields for name, email, subject, and message, along with a submit button to send the information.
  - Value: Provides a straightforward way for users to reach out with questions or comments, enhancing user engagement and support.
 
-![Contact Form](readme/ContactUsSectionAndFormContactPage.PNG)
+![Contact Form](assets/readme/ContactUsSectionAndFormContactPage.PNG)
 
 __JavaScript Functionality__
 
@@ -181,18 +181,18 @@ __JavaScript Functionality__
 });
 ```
 
-![JavaScript Functionality](readme/WindowContactFormRequest.PNG)
+![JavaScript Functionality](assets/readme/WindowContactFormRequest.PNG)
 
-![JavaScript Functionality](readme/WindowContactFormFilled.PNG)
+![JavaScript Functionality](assets/readme/WindowContactFormFilled.PNG)
 
-![JavaScript Functionality](readme/WindowContactFormCompleted.PNG)
+![JavaScript Functionality](assets/readme/WindowContactFormCompleted.PNG)
 
 - Focusing on these features, the Contact page ensures that users have access to all necessary information to get in touch with the team, making it the perfect resource for inquiries, support, and engagement.
 
-    - [Home](https://ts2017185.github.io/castletours/index.html)
-    - [Tours](https://ts2017185.github.io/castletours/tours.html)
-    - [About](https://ts2017185.github.io/castletours/about.html)
-    - [Contact](https://ts2017185.github.io/castletours/contact.html)
+    - [Home](https://ts2017185.github.io/castle-tours/index.html)
+    - [Tours](https://ts2017185.github.io/castle-tours/tours.html)
+    - [About](https://ts2017185.github.io/castle-tours/about.html)
+    - [Contact](https://ts2017185.github.io/castle-tours/contact.html)
 
 ### Features Left to Implement
 
@@ -313,23 +313,23 @@ __The HTML/CSS validator results for each page are below:__
 
 Home Page
 
-![W3C HTML Validator test result](readme/HTMLHomePage.PNG)
-![W3C CSS Validator test result](readme/CSSHomePage.PNG)
+![W3C HTML Validator test result](assets/readme/HTMLHomePage.PNG)
+![W3C CSS Validator test result](assets/readme/CSSHomePage.PNG)
 
 Tours Page
 
-![W3C HTML Validator test result](readme/HTMLToursPage.PNG)
-![W3C CSS Validator test result](readme/CSSTourPage.PNG)
+![W3C HTML Validator test result](assets/readme/HTMLToursPage.PNG)
+![W3C CSS Validator test result](assets/readme/CSSTourPage.PNG)
 
 About Page
 
-![W3C HTML Validator test result](readme/HTMLToursPage.PNG)
-![W3C CSS Validator test result](readme/CSSTourPage.PNG)
+![W3C HTML Validator test result](assets/readme/HTMLToursPage.PNG)
+![W3C CSS Validator test result](assets/readme/CSSTourPage.PNG)
 
 Contact Page
 
-![W3C HTML Validator test result](readme/HTMLContactPage.PNG)
-![W3C CSS Validator test result](readme/CSSContactPage.PNG)
+![W3C HTML Validator test result](assets/readme/HTMLContactPage.PNG)
+![W3C CSS Validator test result](assets/readme/CSSContactPage.PNG)
 
 
 ## Unfixed Bugs
@@ -346,7 +346,7 @@ __Home Page Video Responsiveness__
 
 __Deployment to GitHub Pages__
 
-The live link can be found here - https://ts2017185.github.io/castletours/ 
+The live link can be found here - https://ts2017185.github.io/castle-tours/
 
 Deploying the Castle Tours website to GitHub Pages involves several steps. GitHub Pages is a static site hosting service designed to host your personal, organization, or project pages directly from a GitHub repository.
 
@@ -364,7 +364,7 @@ __Steps to Deploy__
     - Open your terminal or command prompt.
     - Clone the repository to your local machine using the following command:
     ```
-    git clone https://github.com/your-username/castletours.git
+    git clone https://github.com/your-username/castle-tours.git
     ```
     Replace '__your-username__' with your GitHub username.
 
@@ -402,7 +402,7 @@ __Steps to Deploy__
 
     - After enabling GitHub Pages, you will see a URL where your site is hosted. It will be in the format:
     ```
-    https://your-username.github.io/castletours/
+    https://your-username.github.io/castle-tours/
     ```
     Visit this URL to see your live site.
 
