@@ -1,7 +1,7 @@
 /* Header background styling */
 header {
     width: 100vw;
-    height: 100vh;
+    height: 80vh;
     background-image: url("../../../images/homebackground.png");
     background-position: top;
     background-size: cover;
