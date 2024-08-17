@@ -1,0 +1,11 @@
+/* Container for the location section */
+.location {
+    width: 80%;
+    margin: auto;
+    padding: 80px 0;
+}
+
+/* Styling for the iframe inside the location section */
+.location iframe {
+    width: 100%;
+}

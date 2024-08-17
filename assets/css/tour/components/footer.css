@@ -1,0 +1,15 @@
+/* Footer styling */
+.footer {
+    width: 100%;
+    min-height: 100px;
+    padding: 20px 80px;
+    margin: 0;
+    background: #484872;
+    text-align: center;
+}
+
+/* Paragraph styling within the footer */
+.footer p {
+    color: whitesmoke;
+    margin: 20px auto;
+}

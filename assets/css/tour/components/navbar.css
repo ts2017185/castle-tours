@@ -1,0 +1,76 @@
+/* Top bar styling */
+.navbar {
+    width: 100%;
+    background-color: #484872;
+    text-align: center;
+    padding: 10px 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 10px;
+}
+
+.navbar ul li::after {
+    /* Adds an empty content after each list item */
+    content: "";
+    width: 0%;
+    height: 2px;
+    background: white;
+    /* Displays the after pseudo-element as a block */
+    display: block;
+    /* Centers the after pseudo-element horizontally */
+    margin: auto;
+    /* Adds a transition effect of 0.3 seconds for width changes */
+    transition: 0.3s;
+}
+
+/* Makes the font weight bold for active links */
+.active {
+    font-weight: bold;
+}
+
+/* Expands the width of the after pseudo-element to 100% on hover */
+.navbar ul li:hover::after {
+    width: 100%;
+}
+
+.nav-links {
+    /* Uses flexbox for layout */
+    display: flex;
+    align-items: center;
+}
+
+.nav-links li {
+    margin: 0 30px;
+}
+
+.menu-btn,
+.close-btn {
+    position: absolute;
+    /* Positions the buttons absolutely within the navbar */
+    top: 30px;
+    /* Positions the buttons 30px from the top of the navbar */
+    right: 30px;
+    /* Positions the buttons 30px from the right of the navbar */
+    width: 30px;
+    /* Sets the width of the buttons to 30px */
+    cursor: pointer;
+    /* Changes the cursor to a pointer when hovering over the buttons */
+    display: none;
+    /* Hides the buttons by default */
+}
+
+.logo img {
+    width: 150px;
+    height: auto;
+    /* Adds a transition effect of 0.3 seconds for transformations */
+    transition: transform 0.3s ease;
+}
+
+/* Scales the logo image up by 10% on hover */
+.logo img:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,23 @@
+/* Styling for the tour cards section */
+.tourscard {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 80px;
+}
+
+/* Styling for individual tour card columns */
+.tourscard-col {
+    flex-basis: 31%;
+    background: #8585d7;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
+
+/* Hover effect for tour card columns */
+.tourscard-col:hover {
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
+}

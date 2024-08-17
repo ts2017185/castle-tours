@@ -1,0 +1,47 @@
+/* Header background styling */
+header {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../../../images/castlebackground.png");
+    background-position: top;
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+/* Main content inside the header */
+.header-content {
+    /* Semi-transparent black background to make the text stand out */
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    max-width: 80%;
+    margin: 35px auto;
+    text-align: center;
+}
+
+/* Styling for the subheading (h2) */
+.header-content h2 {
+    font-size: 4vmin;
+}
+
+/* Styling for the main heading (h1) */
+.header-content h1 {
+    font-size: 7vmin;
+    margin-top: 5px;
+    margin-bottom: auto;
+}
+
+/* Call-to-action button */
+.ctn {
+    padding: 8px 15px;
+    background: #fc036b;
+    border-radius: 30px;
+    color: whitesmoke;
+    position: relative;
+    top: 25px;
+    z-index: 0;
+}

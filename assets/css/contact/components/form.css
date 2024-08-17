@@ -1,0 +1,48 @@
+/* Container for the contact us section */
+.contact-us {
+    width: 80%;
+    margin: auto;
+}
+
+/* Column layout within the contact us section */
+.contact-col {
+    flex-basis: 48%;
+    margin-bottom: 30px;
+}
+
+/* Layout for each div within the contact column */
+.contact-col div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+/* Icon styling within the contact column */
+.contact-col div .fa {
+    font-size: 28px;
+    margin: 10px;
+    margin-right: 30px;
+}
+
+/* Paragraph styling within each div of the contact column */
+.contact-col div p {
+    padding: 0;
+}
+
+/* Heading (h5) styling within each div of the contact column */
+.contact-col div h5 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #555;
+    font-weight: 400;
+}
+
+/* Styling for input fields and textarea within the contact column */
+.contact-col input,
+.contact-col textarea {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 17px;
+    outline: none;
+    border: 1px solid #ccc;
+}

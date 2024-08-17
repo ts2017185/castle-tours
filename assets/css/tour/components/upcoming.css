@@ -1,0 +1,67 @@
+/* Tours section styling */
+.tours {
+    padding: 60px 0;
+}
+
+/* Content column styling */
+.content-col {
+    width: 40%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/* Image column styling */
+.image-col {
+    width: 60%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* Image gallery styling inside the tours section */
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Individual image styling within the gallery */
+.image-gallery img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.7);
+    margin: 10px;
+}
+
+/* Heading styling inside the content column */
+.content-col h2 {
+    font-size: 6vmin;
+    color: #484872;
+    margin-bottom: 20px;
+}
+
+/* Paragraph styling inside the content column */
+.content-col p {
+    margin: 20px 0;
+    color: black;
+}
+
+/* Button styling inside the content column */
+.content-col .lnm {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #484872;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+.content-col .lnm:hover {
+    background-color: #3a3a62;
+}

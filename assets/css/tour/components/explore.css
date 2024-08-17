@@ -1,0 +1,71 @@
+/* Container for the explore section, with a full-screen layout */
+.explore {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+
+/* Overlay box styling, typically used for darkening the background */
+.overlay-box {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    max-width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+
+/* Content inside the explore section, layered above the video */
+.explore-content {
+    position: relative;
+    z-index: 2;
+    color: whitesmoke;
+    text-align: center;
+    padding: 4%;
+}
+
+/* Video background in the explore section */
+.explore video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+/* Heading styling inside the explore content */
+.explore-content h1 {
+    font-size: 7vmin;
+}
+
+/* Paragraph styling inside the explore content */
+.explore-content p {
+    color: rgb(221, 221, 221);
+}
+
+/* Button styling inside the explore content */
+.explore-content .ctn {
+    position: relative;
+    top: 35px;
+}
+
+/* Column layout for content inside the explore section */
+.content-col {
+    width: 40%;
+}
+
+/* Column layout for images inside the explore section */
+.image-col {
+    width: 60%;
+}

@@ -1,0 +1,23 @@
+/* Importing global styles and resets */
+@import url(components/global.css);
+
+/* Importing styles for the navigation bar */
+@import url(components/navbar.css);
+
+/* Importing styles for the header section */
+@import url(components/header.css);
+
+/* Importing styles for the tour cards section */
+@import url(components/tourcard.css);
+
+/* Importing styles for the mid-page image section */
+@import url(components/mid-page-image.css);
+
+/* Importing styles for the testimonials section */
+@import url(components/testimonials.css);
+
+/* Importing styles for the footer section */
+@import url(components/footer.css);
+
+/* Importing responsive styles to ensure the site is mobile-friendly */
+@import url(components/responsive.css);

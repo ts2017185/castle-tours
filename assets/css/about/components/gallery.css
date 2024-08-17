@@ -1,0 +1,82 @@
+/* About Us Section Styling */
+.about-us {
+    width: 80%;
+    margin: auto;
+    padding: 10px 0 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+/* About Column Styling */
+.about-col {
+    flex-basis: 48%;
+    padding: 30px 2px;
+    box-sizing: border-box;
+}
+
+/* Image Styling within Columns */
+.about-col img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+    transition: transform 0.3s, box-shadow 0.3s;
+    /* Ensure transition is applied here */
+}
+
+/* Image Gallery Styling */
+.image-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* Allow images to wrap in small screens */
+    gap: 20px;
+}
+
+/* Add transition for scaling and shadow */
+.image-gallery img {
+    width: 90%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+/* Hover Effect */
+.image-gallery img:hover,
+.about-col img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    /* Enhance shadow on hover */
+}
+
+/* Row Styling for Layout */
+.row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.row .col {
+    margin: 20px auto;
+    text-align: center;
+}
+
+/* Consistent image rounding */
+.col img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* General Image Styling */
+img {
+    transition: transform 0.3s, box-shadow 0.3s;
+    /* Smooth transitions */
+}

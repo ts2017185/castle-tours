@@ -1,0 +1,14 @@
+/* Styling for the mid-page image container */
+.mid-page-image {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
+/* Styling for the image within the mid-page image container */
+.mid-page-image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
